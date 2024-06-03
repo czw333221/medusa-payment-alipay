@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@medusajs/utils": "^1.11.3",
-    "alipay-sdk": "^3.6.1"
+    "alipay-sdk": "^4.2.0"
   },
   "devDependencies": {
     "@medusajs/medusa": "^1.20.4",
